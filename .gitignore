@@ -178,12 +178,12 @@ p4config.txt
 # ============================
 # Build/Compiler Leftovers
 # ============================
-*.mdb
-*.modules
-*.target
-*.target.xml
-*.pro
-*.csprojAssemblyReference.cache
+#*.mdb
+#*.modules
+#*.target
+#*.target.xml
+#*.pro
+#*.csprojAssemblyReference.cache
 
 # ============================
 # Logs & Runtime Files
