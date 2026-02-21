@@ -64,13 +64,13 @@ Build/*/**
 # ============================
 # Binaries
 # ============================
-Binaries/*
-Binaries/Win64/*
-Binaries/Win64/D3D12/*
-Binaries/Win64/DML/*
-Binaries/Mac/*
-Binaries/Android/*
-Plugins/*/Binaries/*
+#Binaries/*
+#Binaries/Win64/*
+#Binaries/Win64/D3D12/*
+#Binaries/Win64/DML/*
+#Binaries/Mac/*
+#Binaries/Android/*
+#Plugins/*/Binaries/*
 
 # ============================
 # Engine-level generated data
