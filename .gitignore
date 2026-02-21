@@ -105,8 +105,8 @@ SourceArt/**/*.tga
 # ============================
 # Configuration Files
 # ============================
-Config/MDSConfig.ini
-Config/UpdateConfig.ini
+#Config/MDSConfig.ini
+#Config/UpdateConfig.ini
 
 # ============================
 # Version Control
@@ -123,47 +123,47 @@ p4config.txt
 # ============================
 # Compiled Object Files
 # ============================
-*.slo
-*.lo
-*.o
-*.obj
+#*.slo
+#*.lo
+#*.o
+#*.obj
 
 # ============================
 # Precompiled Headers
 # ============================
-*.gch
-*.pch
+#*.gch
+#*.pch
 
 # ============================
 # Compiled Dynamic libraries
 # ============================
-*.so
-*.dylib
-*.dll
+#*.so
+#*.dylib
+#*.dll
 
 # ============================
 # Fortran module files
 # ============================
-*.mod
+#*.mod
 
 # ============================
 # Compiled Static libraries
 # ============================
-*.lai
-*.la
-*.a
-*.lib
+#*.lai
+#*.la
+#*.a
+#*.lib
 
 # ============================
 # Binary Artifacts & Executables
 # ============================
-*.exe
-*.exe.config
-*.exe.manifest
-*.exp
-*.out
-*.app
-*.ipa
+#*.exe
+#*.exe.config
+#*.exe.manifest
+#*.exp
+#*.out
+#*.app
+#*.ipa
 
 # ============================
 # Debug / Symbol / Profile Files
